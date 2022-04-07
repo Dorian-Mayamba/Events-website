@@ -1,0 +1,18 @@
+body{
+    background: url('../image/Campus.jpg') no-repeat;
+    background-size: 100%;
+}
+
+button{
+    margin:20px 0px;
+}
+
+
+.container-fluid span{
+    padding: 5px;
+    color: oldlace;
+}
+
+form{
+    margin: 10px 0px;
+}

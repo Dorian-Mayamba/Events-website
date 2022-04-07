@@ -1,0 +1,26 @@
+
+.container-fluid{
+    position: relative;
+}
+
+
+.container-fluid .selection{
+    position: absolute;
+    left: 8%;
+    top:4%;
+}
+
+.container-fluid button{
+    position: absolute;
+    top:50%;
+    border:none;
+    background: none;
+    font-size: 40px;
+}
+
+
+
+
+.container-fluid a{
+    font: 15px;
+}
